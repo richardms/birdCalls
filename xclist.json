@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Eurasian Bittern",
+    "fullname": "Eurasian Bittern",
+    "latin": "Botaurus stellaris",
+    "xc": 25558
+  },
+  {
+    "name": "Bearded Reedling",
+    "fullname": "Bearded Reedling",
+    "latin": "Panurus biarmicus",
+    "xc": 25560
+  },
+  {
+    "name": "Eurasian Bullfinch",
+    "fullname": "Eurasian Bullfinch",
+    "latin": "Pyrrhula pyrrhula",
+    "xc": 25564
+  },
+  {
+    "name": "Eurasian Jay",
+    "fullname": "Eurasian Jay",
+    "latin": "Garrulus glandarius",
+    "xc": 25647
+  },
+  {
+    "name": "Black-legged Kittiwake",
+    "fullname": "Black-legged Kittiwake",
+    "latin": "Rissa tridactyla",
+    "xc": 26685
+  },
+  {
+    "name": "Willow Warbler",
+    "fullname": "Willow Warbler",
+    "latin": "Phylloscopus trochilus",
+    "xc": 26756
+  },
+  {
+    "name": "Water Rail",
+    "fullname": "Water Rail",
+    "latin": "Rallus aquaticus",
+    "xc": 26925
+  },
+  {
+    "name": "Mistle Thrush",
+    "fullname": "Mistle Thrush",
+    "latin": "Turdus viscivorus",
+    "xc": 26978
+  },
+  {
+    "name": "Eurasian Skylark",
+    "fullname": "Eurasian Skylark",
+    "latin": "Alauda arvensis",
+    "xc": 27004
+  },
+  {
+    "name": "Northern Lapwing",
+    "fullname": "Northern Lapwing",
+    "latin": "Vanellus vanellus",
+    "xc": 27060
+  },
+  {
+    "name": "Eurasian Wren",
+    "fullname": "Eurasian Wren",
+    "latin": "Troglodytes troglodytes",
+    "xc": 27114
+  },
+  {
+    "name": "Sedge Warbler",
+    "fullname": "Sedge Warbler",
+    "latin": "Acrocephalus schoenobaenus",
+    "xc": 27120
+  },
+  {
+    "name": "Eurasian Reed Warbler",
+    "fullname": "Eurasian Reed Warbler",
+    "latin": "Acrocephalus scirpaceus",
+    "xc": 27122
+  },
+  {
+    "name": "Common Swift",
+    "fullname": "Common Swift",
+    "latin": "Apus apus",
+    "xc": 27236
+  },
+  {
+    "name": "Yellowhammer",
+    "fullname": "Yellowhammer",
+    "latin": "Emberiza citrinella",
+    "xc": 27577
+  },
+  {
+    "name": "Common Chaffinch",
+    "fullname": "Common Chaffinch",
+    "latin": "Fringilla coelebs",
+    "xc": 27602
+  },
+  {
+    "name": "Long-tailed Tit",
+    "fullname": "Long-tailed Tit",
+    "latin": "Aegithalos caudatus caudatus",
+    "xc": 28192
+  },
+  {
+    "name": "Eurasian Blue Tit",
+    "fullname": "Eurasian Blue Tit",
+    "latin": "Cyanistes caeruleus",
+    "xc": 28208
+  },
+  {
+    "name": "Common Nightingale",
+    "fullname": "Common Nightingale",
+    "latin": "Luscinia megarhynchos",
+    "xc": 29724
+  },
+  {
+    "name": "Common Buzzard",
+    "fullname": "Common Buzzard",
+    "latin": "Buteo buteo",
+    "xc": 30950
+  },
+  {
+    "name": "Stock Dove",
+    "fullname": "Stock Dove",
+    "latin": "Columba oenas oenas",
+    "xc": 32006
+  },
+  {
+    "name": "European Stonechat",
+    "fullname": "European Stonechat",
+    "latin": "Saxicola rubicola",
+    "xc": 34070
+  },
+  {
+    "name": "Eurasian Nuthatch",
+    "fullname": "Eurasian Nuthatch",
+    "latin": "Sitta europaea",
+    "xc": 35043
+  },
+  {
+    "name": "Common Linnet",
+    "fullname": "Common Linnet",
+    "latin": "Linaria cannabina",
+    "xc": 35189
+  },
+  {
+    "name": "Eurasian Collared Dove",
+    "fullname": "Eurasian Collared Dove",
+    "latin": "Streptopelia decaocto",
+    "xc": 37443
+  },
+  {
+    "name": "Common Cuckoo",
+    "fullname": "Common Cuckoo",
+    "latin": "Cuculus canorus",
+    "xc": 37447
+  },
+  {
+    "name": "Eurasian Curlew",
+    "fullname": "Eurasian Curlew",
+    "latin": "Numenius arquata",
+    "xc": 37497
+  },
+  {
+    "name": "Western Jackdaw",
+    "fullname": "Western Jackdaw",
+    "latin": "Coloeus monedula",
+    "xc": 42332
+  },
+  {
+    "name": "Eurasian Magpie",
+    "fullname": "Eurasian Magpie",
+    "latin": "Pica pica",
+    "xc": 42388
+  },
+  {
+    "name": "House Sparrow",
+    "fullname": "House Sparrow",
+    "latin": "Passer domesticus",
+    "xc": 44727
+  },
+  {
+    "name": "Great Tit",
+    "fullname": "Great Tit",
+    "latin": "Parus major",
+    "xc": 45953
+  },
+  {
+    "name": "Mediterranean Gull",
+    "fullname": "Mediterranean Gull",
+    "latin": "Ichthyaetus melanocephalus",
+    "xc": 46094
+  },
+  {
+    "name": "Common Pheasant",
+    "fullname": "Common Pheasant",
+    "latin": "Phasianus colchicus",
+    "xc": 46412
+  },
+  {
+    "name": "Dartford Warbler",
+    "fullname": "Dartford Warbler",
+    "latin": "Sylvia undata undata",
+    "xc": 54914
+  },
+  {
+    "name": "European Green Woodpecker",
+    "fullname": "European Green Woodpecker",
+    "latin": "Picus viridis viridis",
+    "xc": 55183
+  },
+  {
+    "name": "Red-billed Chough",
+    "fullname": "Red-billed Chough",
+    "latin": "Pyrrhocorax pyrrhocorax",
+    "xc": 55319
+  },
+  {
+    "name": "Northern Raven",
+    "fullname": "Northern Raven",
+    "latin": "Corvus corax",
+    "xc": 57509
+  },
+  {
+    "name": "Atlantic Puffin",
+    "fullname": "Atlantic Puffin",
+    "latin": "Fratercula arctica",
+    "xc": 57541
+  },
+  {
+    "name": "European Turtle Dove",
+    "fullname": "European Turtle Dove",
+    "latin": "Streptopelia turtur",
+    "xc": 58791
+  },
+  {
+    "name": "Tawny Owl",
+    "fullname": "Tawny Owl",
+    "latin": "Strix aluco",
+    "xc": 72589
+  },
+  {
+    "name": "Little Owl",
+    "fullname": "Little Owl",
+    "latin": "Athene noctua",
+    "xc": 75862
+  },
+  {
+    "name": "Common Wood Pigeon",
+    "fullname": "Common Wood Pigeon",
+    "latin": "Columba palumbus",
+    "xc": 76918
+  },
+]
